@@ -20,6 +20,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="783158da-3501-4566-8348-842043e63bfc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/Mark2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Mark3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Mark5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Site2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Site5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Smm2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mark1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mark4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mark6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/opk-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/site1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/site3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/site4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/site6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/smm1.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -68,7 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1598276128282</updated>
       <workItem from="1598276129458" duration="2909000" />
-      <workItem from="1598525677432" duration="20253000" />
+      <workItem from="1598525677432" duration="25199000" />
     </task>
     <servers />
   </component>
