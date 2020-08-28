@@ -1,9 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="783158da-3501-4566-8348-842043e63bfc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/fonts/Circe-Bold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Circe-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Circe-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Circe-Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Circe-ExtraBold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Circe-ExtraBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Circe-ExtraBold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Circe-ExtraBold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Circe-Light.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Circe-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Circe-Light.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Circe-Light.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Circe-Regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Circe-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Circe-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Circe-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Circe-Thin.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Circe-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Circe-Thin.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Circe-Thin.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/stylesheet.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tilda.ws/project1401190/tilda-blocks-2.709ca.js" beforeDir="false" afterPath="$PROJECT_DIR$/tilda.ws/project1401190/tilda-blocks-2.709ca.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,15 +54,31 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/index.html" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/tilda.ws/project1401190/tilda-blocks-2.709ca.js" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <hideBySeverity>
+      <option value="15" />
+      <option value="100" />
+      <option value="200" />
+      <option value="300" />
+    </hideBySeverity>
+  </component>
   <component name="ProjectId" id="1gY0HG6kV25sKrM5cMCkN9awZi9" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dmagency" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
@@ -34,17 +91,47 @@
       <option name="presentableId" value="Default" />
       <updated>1598276128282</updated>
       <workItem from="1598276129458" duration="2909000" />
-      <workItem from="1598525677432" duration="1065000" />
+      <workItem from="1598525677432" duration="17557000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="425" y="197" key="run.anything.popup" timestamp="1598277798054">
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1598529112671">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1598277798054" />
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1598529112671" />
+    <state x="93" y="93" width="1350" height="678" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1598527527637">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="93" y="93" width="1350" height="678" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.864@0.0.1536.864" timestamp="1598527527637" />
+    <state x="478" y="31" width="579" height="801" key="find.popup" timestamp="1598597711810">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="478" y="31" width="579" height="801" key="find.popup/0.0.1536.864@0.0.1536.864" timestamp="1598597711810" />
+    <state x="425" y="197" key="run.anything.popup" timestamp="1598594060557">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1598594060557" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1598594574755">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1598594574755" />
   </component>
 </project>
