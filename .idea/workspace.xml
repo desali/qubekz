@@ -20,31 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="783158da-3501-4566-8348-842043e63bfc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/fonts/Circe-Bold.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Circe-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Circe-Bold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Circe-Bold.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Circe-ExtraBold.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Circe-ExtraBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Circe-ExtraBold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Circe-ExtraBold.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Circe-Light.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Circe-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Circe-Light.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Circe-Light.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Circe-Regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Circe-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Circe-Regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Circe-Regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Circe-Thin.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Circe-Thin.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Circe-Thin.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Circe-Thin.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/demo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/stylesheet.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tilda.ws/project1401190/tilda-blocks-2.709ca.js" beforeDir="false" afterPath="$PROJECT_DIR$/tilda.ws/project1401190/tilda-blocks-2.709ca.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1598276128282</updated>
       <workItem from="1598276129458" duration="2909000" />
-      <workItem from="1598525677432" duration="17557000" />
+      <workItem from="1598525677432" duration="18919000" />
     </task>
     <servers />
   </component>

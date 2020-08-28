@@ -2118,7 +2118,7 @@
                       e.preventDefault(); // avoid to execute the actual submit of the form.
 
                       var form = $(this);
-                      var url = "http://localhost:3000/send";
+                      var url = "https://wecode-test-mailer.herokuapp.com/send";
 
                       formdata = {
                         Name: $("#zadacha_name").val(),
@@ -2423,7 +2423,7 @@
                 e.preventDefault(); // avoid to execute the actual submit of the form.
 
                 var form = $(this);
-                var url = "http://localhost:3000/send";
+                var url = "https://wecode-test-mailer.herokuapp.com/send";
 
                 $.ajax({
                   type: "POST",
